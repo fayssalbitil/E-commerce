@@ -1,0 +1,46 @@
+#buttons {
+
+    background-color: transparent;
+    border: none;
+    align-items: center;
+    padding-top: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 0%;
+}
+
+#buttons:hover {
+    background-color: rgb(93, 208, 228);
+    border-radius: 50px;
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+#detailproduct {
+    padding-left: 300px;
+    width: 100%;
+    padding-right: 0px;
+}
+
+#detailproduct {
+    display: none;
+}
+
+#addproduct {
+    display: none;
+}
+
+#detailcategorie {
+    display: none;
+}
+
+#addcategorie {
+    display: none;
+}
+
+#edit {
+    border: none;
+    background-color: transparent
+}
